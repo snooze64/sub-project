@@ -1,1 +1,2 @@
-# sub-project
+サブプロジェクト
+github上で更新
